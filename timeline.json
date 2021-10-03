@@ -1,0 +1,154 @@
+timeline = [
+	{
+		"year": 1630,
+		"events": [
+			{
+				"description": "Shivaji Maharaj Birth",
+				"date": "19 Feb",
+				"type": "IMP"
+			}
+		]
+	},
+	{
+		"year": "1640-43",
+		"events": [
+			{
+				"description": "Shivaji-Saibai wedding",
+				"date": "17 Apr 1640"
+			},
+			{
+				"description": "Shivaji-Sagunabai wedding",
+				"date": "Apr 1641"
+			},
+			{
+				"description": "Shivaji, Shahaji, Jijabahi meet"
+			}
+		],
+	},
+	{
+		"year": 1644,
+		"events": [
+			{
+				"description": "Kondhana (Sinhagad)",
+				"date": "12 May"
+			}
+		]
+	},
+	{
+		"year": "1644-48",
+		"events": [
+			{
+				"description": "Oath of Swarajya",
+				"date": "Mar 1645"
+			},
+			{
+				"description": "Found treasure on Torna (Prachandagad)"
+			},
+			{
+				"description": "Rajgad (Newly constructed)"
+			},
+			{
+				"description": "12 Mavle (Territory from Junnar to Pune supe) : Rajmachi, Paud, Muse, Gunjan, Velvand, Bhor, Hirdas, Shivthar"
+			},
+			{
+				"description": "Purandar from Nijam",
+				"date": "Oct 1648"
+			},
+			{
+				"description": "Suvarnadurga, RAtnagiri, Ghorepatan (south Konan)",
+				"date": "1648"
+			}
+		]
+	},
+	{
+		"year": 1650,
+		"events": [
+			{
+				"description": "Shivaji-Soyrabai Wedding"
+			},
+			{
+				"description": "Shivaji-Putlabai Wedding"
+			}
+		]
+	},
+	{
+		"year": 1653,
+		"events": [
+			{
+				"description": "Vijaydurga (Constructed)"
+			}
+		]
+	},
+	{
+		"year": 1654,
+		"events": [
+			{
+				"description": "Death of Sambhaji (Elder brother of Shivaji)"
+			}
+		]
+	},
+	{
+		"year": 1656,
+		"events": [
+			{
+				"description": "Javliche khore"
+			},
+			{
+				"description": "Raigad"
+			},
+			{
+				"description": "Vasota"
+			},
+			{
+				"description": "Pratapgad"
+			},
+			{
+				"description": "Shivaji-Laxmibai Wedding"
+			},
+			{
+				"description": "Rohida"
+			},
+			{
+				"description": "Adilshah Death"
+			}
+		]
+	},
+	{
+		"year": 1657,
+		"events": [
+			{
+				"description": "Shivaji-Sakvarbai Wedding",
+				"date": "Jan"
+			},
+			{
+				"description": "Shivaji-Kashibai Wedding",
+				"date": "8 April"
+			},
+			{
+				"description": "Shivaji-Gunvantabai Wedding",
+				"date": "15 April"
+			},
+			{
+				"description": "Junnar Loot",
+				"date": "April"
+			},
+			{
+				"description": "Sambhaji Maharaj Birth",
+				"date": "14 May",
+				"type": "IMP"
+			},
+			{
+				"description": "Lost at ChambharGonda",
+				"date": "4th June"
+			},
+			{
+				"description": "Kalyan, Bhivandi.",
+				"date": "24th Oct"
+			},
+			{
+				"description": "Dabhol"
+			}
+		]
+	}
+
+];
