@@ -142,11 +142,87 @@ timeline = [
 				"date": "4th June"
 			},
 			{
-				"description": "Kalyan, Bhivandi.",
+				"description": "Kalyan, Bhivandi",
 				"date": "24th Oct"
 			},
 			{
 				"description": "Dabhol"
+			}
+		]
+	},
+	{
+		"year": 1658,
+		"events": [
+			{
+				"description": "Mahuli",
+				"date": "8th Jan"
+			},
+			{
+				"description": "Shahjahan ill"
+			},
+			{
+				"description": "Aurangjeb Marched to Delhi",
+				"date": "25th Jan"
+			},
+			{
+				"description": "Aurangjeb Declare himself Badshah",
+				"date": "July"
+			},
+			{
+				"description": "Chaul, Padhangad (Prabalgad), Tale Ghosala, Kangori, Tikona, Lohgad, Rajmachi"
+			},
+			{
+				"description": "Tale, Ghosala"
+			},
+			{
+				"description": "Birvadi fort Constructed"
+			}
+		]
+	},
+	{
+		"year": 1659,
+		"events": [
+			{
+				"description": "Truce with lakham Savant from Vadi",
+				"date": "5th Mar"
+			},
+			{
+				"description": "Shahistakhan in South"
+			},
+			{
+				"description": "Took Europian sword from Govekar (Bhavani Sword)"
+			},
+			{
+				"description": "Platu of Rayri"
+			},
+			{
+				"description": "Death of Saibai",
+				"date": "5th Sept"
+			},
+			{
+				"description": "Afzalkhan marched to Pratapgad from Vijapur",
+				"date": "Sept"
+			},
+			{
+				"description": "Killed Afzalkhan",
+				"date": "10th Nov"
+			},
+			{
+				"description": "Panhala Fort (Western Capital of Vijapur)",
+				"date": "28th Nov"
+			},
+			{
+				"description": "Vasantgad, Rangana, Khelna (Vishalgad)"
+			},
+			{
+				"description": "Rajapur, Dabhol"
+			},
+			{
+				"description": "Vijapur, Raibagh, Gadag Lakmeshwar loot",
+				"date": "Dec"
+			},
+			{
+				"description": "See triangle in maps with Vasai, Indapur and Rajapur. This was aquaired in 3-4 yearst"
 			}
 		]
 	}
