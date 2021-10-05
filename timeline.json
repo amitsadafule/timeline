@@ -222,7 +222,131 @@ timeline = [
 				"date": "Dec"
 			},
 			{
-				"description": "See triangle in maps with Vasai, Indapur and Rajapur. This was aquaired in 3-4 yearst"
+				"description": "See triangle in maps with Vasai, Indapur and Rajapur. This was aquaired in 3-4 years",
+				"type": "INFO"
+			}
+		]
+	},
+	{
+		"year": 1660,
+		"events": [
+			{
+				"description": "Shivaji-Soyrabai Wedding"
+			},
+			{
+				"description": "Arrested Gidarf (British)",
+				"date": "20 Jan"
+			},
+			{
+				"description": "Shivaji Maharaj Reached Panhala",
+				"date": "2nd March"
+			},
+			{
+				"description": "Shahapur loot"
+			},
+			{
+				"description": "Enchroachment on Vijapur by Netaji (Failed)"
+			},
+			{
+				"description": "Sidhi Johar (Salabadkhan) besieged Panhala",
+				"date": "Around May"
+			},
+			{
+				"description": "Salabatkhan, Shivaji Meeting",
+				"date": "12th July"
+			},
+			{
+				"description": "Shivaji Ran towards Vishalgad (Pawankhind. Baji Prabhu Deshpande was Martyred)",
+				"date": "13th July"
+			},
+			{
+				"description": "Ali Adilshah reached Miraj",
+				"date": "5th Aug"
+			},
+			{
+				"description": "Shahistekhan captured Chakan (Sangramdurga)",
+				"date": "Aug"
+			},
+			{
+				"description": "Let go Panhala to Adilshah",
+				"date": "22nd Sept"
+			},
+			{
+				"description": "Shahistekhan captured Parinda",
+				"date": "20th Nov"
+			}
+		]
+	},
+	{
+		"year": 1661,
+		"events": [
+			{
+				"description": "Banished Kartalbakhan from Umbarkind near Lohagad",
+				"date": "3rd Feb"
+			},
+			{
+				"description": "Sidhi Johar Suiside"
+			},
+			{
+				"description": "Rajapur Loot",
+				"date": "March"
+			},
+			{
+				"description": "Palvan, Dabhol, Sangameshwar, Rajapur, Khorepatan"
+			},
+			{
+				"description": "Shrungarpur",
+				"date": "29th April"
+			},
+			{
+				"description": "Pachitgad (near Shrungarpur), Palgad, mandangad Newly constructed"
+			},
+			{
+				"description": "Shahistekhan captured kalyan and nearby land (North Kokan)",
+				"date": "May"
+			}
+		]
+	},
+	{
+		"year": 1662,
+		"events": [
+			{
+				"description": "Defeated Moghal Sardar namdarkhan near pen",
+				"date": "Jan"
+			}
+		]
+	},
+	{
+		"year": 1663,
+		"events": [
+			{
+				"description": "Adilshah in Bankapur",
+				"date": "1st Mar"
+			},
+			{
+				"description": "Looted Moghal land"
+			},
+			{
+				"description": "Shivaji reached Sinhagad"
+			},
+			{
+				"description": "Attacked Shahistekhan at night, Beheaded Abhul Fattekhan (Son of Shahistekhan)",
+				"date": "5 April"
+			},
+			{
+				"description": "Shahistekhan absconded to Aurangabad"
+			},
+			{
+				"description": "Shahaji got arrested by Adilshah",
+				"date": "June"
+			},
+			{
+				"description": "Jashvantsingh besieged Sinhagad",
+				"date": "Nov"
+			},
+			{
+				"description": "Shahistekhan returned back",
+				"date": "1st Dec"
 			}
 		]
 	}
