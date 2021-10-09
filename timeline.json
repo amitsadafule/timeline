@@ -219,11 +219,8 @@ timeline = [
 			},
 			{
 				"description": "Vijapur, Raibagh, Gadag Lakmeshwar loot",
-				"date": "Dec"
-			},
-			{
-				"description": "See triangle in maps with Vasai, Indapur and Rajapur. This was aquaired in 3-4 years",
-				"type": "INFO"
+				"date": "Dec",
+				"info": "See triangle in maps with Vasai, Indapur and Rajapur. This was aquaired in 3-4 years"
 			}
 		]
 	},
@@ -348,6 +345,114 @@ timeline = [
 				"description": "Shahistekhan returned back",
 				"date": "1st Dec"
 			}
+		]
+	},
+	{
+		"year": 1664,
+		"events": [
+			{
+				"description": "Surat loot",
+				"date": "6th Jan - 10th jan"
+			},
+			{
+				"description": "Shahaji's death",
+				"date": "23rd Jan"
+			},
+			{
+				"description": "Captured Kudal",
+				"date": "Summer"
+			},
+			{
+				"description": "Jashvantsingh removed Sinhagad siege",
+				"date": "28th May"
+			},
+			{
+				"description": "Raided Ahmadnagar near land and demolished land till Aurangabad",
+				"date": "Aug"
+			},
+			{
+				"description": "Aurangajeb (birthday) ordered Mirza raja Jaisingh to attack Shivaji",
+				"date": "30 Sept"
+			},
+			{
+				"description": "Looted Mudhol",
+				"date": "Nov"
+			},
+			{
+				"description": "Started construction of Sindhudurg",
+				"date": "25th Nov"
+			},
+			{
+				"description": "Looted Hubali",
+				"date": "Dec"
+			}
+		]
+	},
+	{
+		"year": 1665,
+		"events": [
+			{
+				"description": "Jaisingh in Barhanpur",
+				"date": "19th Jan"
+			},
+			{
+				"description": "Looted Basnur",
+				"date": "8th Feb"
+			},
+			{
+				"description": "Jaisingh in Aurangabad",
+				"date": "10th Feb"
+			},
+			{
+				"description": "Jaisingh in Pune",
+				"date": "3rd March"
+			},
+			{
+				"description": "Jaisingh returned to Aurangabad",
+				"date": "14th March"
+			},
+			{
+				"description": "Jaisingh in Saswad",
+				"date": "31st March"
+			},
+			{
+				"description": "Dilirkhan besieged Purandar",
+				"date": "Nov"
+			},
+			{
+				"description": "Murarbaji martyr",
+				"date": "April"
+			},
+			{
+				"description": "Moghal won Rudramal fort (North-east to Purandra)",
+				"date": "14th Apr"
+			},
+			{
+				"description": "Shivaji-Jaisingh truce",
+				"date": "11th June",
+				"info": "Truce conditions<br><ol><li>Rohida, Lohgad, Visapur, Tung, Tikona, Kondhana, Purandar, etc 23 forts to badshah,<li>2. Rajgad, Torna, Lingangad, Mahadgad, Ghosala, Alvari(Asheri), Bhorap, Kumbari, Rayri, Paal, Talegad, Udaydurg, etc 12 forts to Shivaji <li>3. Serve Badshah"
+			},
+			{
+				"description": "Left Kondhana",
+				"date": "14th June"
+			},
+			{
+				"description": "Kept Shambhaji (son) with Jaisingh as guarantee",
+				"date": "18th June"
+			},
+			{
+				"description": "Shivaji-Badshah truce agreement ready",
+				"date": "5th Sept"
+			},
+			{
+				"description": "Kiratsingh and Shivaji did salutation to Badshah's edict by walking 6 miles",
+				"date": "30th Sept"
+			},
+			{
+				"description": "Shivaji helped Moghal army to capture Faltan",
+				"date": "7th Dec"
+			}
+
 		]
 	}
 
