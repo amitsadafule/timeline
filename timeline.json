@@ -454,6 +454,165 @@ timeline = [
 			}
 
 		]
+	},
+	{
+		"year": 1666,
+		"events": [
+			{
+				"description": "Shahjahan's death",
+				"date": "Jan"
+			},
+			{
+				"description": "Shivaji attacked Panhala got defeated (from Mohgal side)",
+				"date": "16th Jan"
+			},
+			{
+				"description": "Shavaji and Sambhaji's travel to Delhi to meet Aurangjeb",
+				"date": "5th Mar"
+			},
+			{
+				"description": "Netaji joined Jaisingh",
+				"date": "20th Mar"
+			},
+			{
+				"description": "Aurangjeb's ascension",
+				"date": "27th Mar"
+			},
+			{
+				"description": "Shavaji reached Agra",
+				"date": "9th May"
+			},
+			{
+				"description": "Shivaji met Badshah in Divan-E-aam",
+				"date": "12th May"
+			},
+			{
+				"description": "Shavaji got house arrested in Jaipur Bungalow"
+			},
+			{
+				"description": "Shivaji ran from Agra",
+				"date": "17th Aug"
+			},
+			{
+				"description": "Shavaji reached Raigad",
+				"date": "20th Nov"
+			}
+		]
+	},
+	{
+		"year": 1667,
+		"events": [
+			{
+				"description": "Netaji (changed name to Mohammed Kulikhan) and Kondaji accepted Muslim Dharma",
+				"date": "Feb"
+			},
+			{
+				"description": "Afganani people started movement in Peshawar",
+				"date": "March"
+			},
+			{
+				"description": "Tribak Sonaji dabir and Raghunathpant Korde freed from Agra",
+				"date": "3rd Apr"
+			},
+			{
+				"description": "Bahlolkhan and Ekoji besieged Rangna fort and got defeated",
+				"date": "May"
+			},
+			{
+				"description": "Jaisingh's death in Barhanpur",
+				"date": "2nd July"
+			},
+			{
+				"description": "Shivaji-Portuguese truce",
+				"date": "11th Dec"
+			}
+		]
+	},
+	{
+		"year": 1668,
+		"events": [
+			{
+				"description": "Purandar truce again agreed",
+				"date": "9th Mar"
+			}
+		]
+	},
+	{
+		"year": 1669,
+		"events": [
+			{
+				"description": "Badshah Auranjeb ordered to destroy Hindu temples",
+				"date": "9th apr"
+			}
+		]
+	},
+	{
+		"year": 1670,
+		"events": [
+			{
+				"description": "Looted Moghal territory",
+				"date": "Jan"
+			},
+			{
+				"description": "Badshah ordered Dilirkhan to attack Shivaji. Badshah disbanded truce",
+				"date": "26th Jan"
+			},
+			{
+				"description": "Martyred Tanaji Malusare. Won Sinhagad(गड आला पण सिंह गेला)",
+				"date": "4th Feb"
+			},
+			{
+				"description": "Rajaram Maharaj Birth",
+				"date": "24th Feb",
+				"type": "IMP"
+			},
+			{
+				"description": "Won Purandar Fort",
+				"date": "8th Mar"
+			},
+			{
+				"description": "Won Kalyan, Bhivandi. Killed incharge(Uzabkkahn)",
+				"date": "30th Mar"
+			},
+			{
+				"description": "Looted 51 villages in Ahamadnagar, Junnar, Parinda territories",
+				"date": "Apr"
+			},
+			{
+				"description": "Kokan's chief ran away, acquired Kokan"
+			},
+			{
+				"description": "Won Mahuli fort",
+				"date": "16th June"
+			},
+			{
+				"description": "Looted Surat second time",
+				"date": "3rd Oct"
+			},
+			{
+				"description": "Battle of Dindori",
+				"date": "16th Oct"
+			},
+			{
+				"description": "Moropant Pingale won Trimbak fort",
+				"date": "25th Oct"
+			},
+			{
+				"description": "Territory of Aundha, Ravla-Javla forts won"
+			},
+			{
+				"description": "Prataprao looted territory of Bahadapura, Karanja, Varhad"
+			}
+		]
+	},
+	{
+		"year": 1671,
+		"events": [
+			{
+				"description": "Won Salher fort",
+				"date": "3rd Jan"
+			}
+		]
 	}
 
 ];
