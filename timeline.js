@@ -54,32 +54,6 @@ function adjust_widths() {
 	        document.getElementById(time_div_id).style.width = style.width;
 	        document.getElementById("timeline").style.width = total_width + "px";
 
-	        
-			// for(var event_counter = 0; event_counter < year_data["events"].length; event_counter++) {
-			// 	var time = document.getElementById(time_div_id);
-			// 	var time_box = time.getBoundingClientRect();
-			// 	const line_div_id = year_div_id + "-line-" + event_counter;
-			// 	const description_div_id = year_div_id + "-description-"+event_counter;
-			// 	const item_div_id = year_div_id + "-item-" + event_counter;
-			// 	set_item_line_height(event_counter, year_div_id, time_div_id)
-			// 	const line = document.getElementById(line_div_id);
-			// 	const item = document.getElementById(item_div_id);
-			// 	console.log(description_div_id)
-			// 	const description_div = document.getElementById(description_div_id);
-				
-			// 	if(item.className.includes("item-up")) {
-			// 		//console.log(line_div_id, item_div_id, time_box.y, item.getBoundingClientRect().y, item.getBoundingClientRect().height);
-			// 		// const line_height = time_box.y - (description_div.getBoundingClientRect().y + description_div.getBoundingClientRect().height);
-			// 		// if(line_height <= 0) {
-			// 		// 	item.style.transform = "translateY(-99%)";
-			// 		// 	line.style.height = "100px";
-			// 		// } else {
-			// 		// 	line.style.height = line_height + "px";
-			// 		// }
-			// 		// line.style.height = line_height + "px";
-			// 	}
-			// }
-	        //line.style.height = (time_box.y - (item.getBoundingClientRect().y + item.getBoundingClientRect().height)) + "px";
 		}
 	}, 100);
 }
@@ -100,24 +74,6 @@ function set_time_bar_width(year_div_id, time_div_id) {
         document.getElementById("timeline").style.width = total_width + "px";
     }, 100);
 };
-
-// function set_item_line_height(event_counter, year_div_id, time_div_id) {
-//     setTimeout(function() {
-
-// 		var time = document.getElementById(time_div_id);
-// 		var time_box = time.getBoundingClientRect();
-// 		const line_div_id = year_div_id + "-line-" + event_counter;
-// 		const description_div_id = year_div_id + "-description-"+event_counter;
-// 		const item_div_id = year_div_id + "-item-" + event_counter;
-// 		var line = document.getElementById(line_div_id);
-// 		var item = document.getElementById(item_div_id);
-		
-// 		if(item.className.includes("item-up")) {
-// 			console.log(line_div_id, item_div_id, time_box.y, item.getBoundingClientRect().y, item.getBoundingClientRect().height);
-// 			//line.style.height = (time_box.y - (item.getBoundingClientRect().y + item.getBoundingClientRect().height)) + "px";
-// 		}
-//     }, 100);
-// };
 
 function fill_year_data(year_data, year_div_id, time_div_id) {
 	return format(year_events, [fill_events_data(year_data["events"], year_div_id), year_data["year"], year_div_id, time_div_id])
@@ -155,7 +111,7 @@ function fill_event_data(event_data, item_direction, line_direction, item_div_id
 
 	if(event_data["type"] == "IMP") {
 		description_css = "description imp-event-description";
-		line_css = line_direction + " imp-event-" + line_direction;
+		line_css = line_direction + " imp-event-line";
 	}
 
 	const main_event = format(event, [event_data["description"], event_data["date"] == null ? "" : "(" + event_data["date"] + ")", line_css, description_css, line_div_id, description_div_id]);
