@@ -613,6 +613,316 @@ timeline = [
 				"date": "3rd Jan"
 			}
 		]
+	},
+	{
+		"year": 1672,
+		"events": [
+			{
+				"description": "Battle of Salher won by Moropant",
+				"date": "Feb"
+			},
+			{
+				"description": "Moropant Won Mulher"
+			},
+			{
+				"description": "Moropant defeated king of Javhar, Vikramsha",
+				"date": "6th June"
+			},
+			{
+				"description": "Moropant defeated king of Ramnagar, Somshah",
+				"date": "19th June"
+			},
+			{
+				"description": "Moropant defeated and arrested grandson of Lakhuji",
+				"date": "July"
+			},
+			{
+				"description": "Moropant defeated and looted Siddhi Hilal"
+			},
+			{
+				"description": "Gandson of Lakhuji and Siddhi Hilal joined Shivaji",
+				"date": "Oct"
+			},
+			{
+				"description": "Death of Ali Adilshah.  Enthroned 4 yrs old Sikandarshah as Adilshah",
+				"date": "24th Nov"
+			}
+		]
+	},
+	{
+		"year": 1673,
+		"events": [
+			{
+				"description": "Constructed Pavangad"
+			},
+			{
+				"description": "Captured Panhala",
+				"date": "6th March"
+			},
+			{
+				"description": "Captured Parali fort",
+				"date": "1st Apr"
+			},
+			{
+				"description": "Prataprao Bahlolkhan battle. Prataprao let go Bahlolkhan",
+				"date": "15th Apr"
+			},
+			{
+				"description": "Captured Satara fort",
+				"date": "27th July"
+			}
+		]
+	},
+	{
+		"year": 1674,
+		"events": [
+			{
+				"description": "Prataprao attacked Bahlolkhan with 6 fellow warriors",
+				"date": "24th Feb"
+			},
+			{
+				"description": "Coronation of Shivaji maharaj",
+				"date": "5th June",
+				"type": "IMP",
+				"info": "Council of 8 ministors (अष्टप्रधानमंडळ)<br>Left side of Throne<br>Hambirrao Mohite - Commander in chief (सरनोबत)<br>Ramchandra Trimbak - Foreign minister (डबीर)<br>Ravji Niraji - Chief justice (न्यायाधीश)<br>Raghunath Panditrao - High Priest (पंडितराव)<br><br>Right side of Throne<br>Moropant Pingle - Prime minister (पेशवा, प्रधानमंत्री)<br>Ramchandra Nilakantha - Finance minister (पंत अमात्य, मजुमदार)<br>Annaji Datto - secretory (पंत सचिव, सुरनीस)<br>Dattaji Trimbak - Interior ministor (मंत्री, वाकनीस)"
+			},
+			{
+				"description": "Death of Jijabai",
+				"date": "17th June"
+			},
+			{
+				"description": "Small coronation to satisfy opponents",
+				"date": "24th Sept"
+			},
+			{
+				"description": "Looted territories in Baglan, Aurangabad, Khandesh",
+				"date": "Oct"
+			},
+			{
+				"description": "Looted British warehouse near Dharangao"
+			},
+			{
+				"description": "Defeated Kudbuddinkhan",
+				"date": "Nov"
+			}
+		]
+	},
+	{
+		"year": 1675,
+		"events": [
+			{
+				"description": "Ekoji captured palace of Tanjavar and fort",
+				"date": "23rd Jan"
+			},
+			{
+				"description": "Ascension of Ekoji to the throne of Nayak empire",
+				"date": "17th Mar"
+			},
+			{
+				"description": "Captured Fonda fort near Panjim",
+				"date": "6th May"
+			},
+			{
+				"description": "Captured Akola, Shiveshvar, Kadra territories"
+			},
+			{
+				"description": "Captured Sadashivgad and nearby territory of Saundhe"
+			},
+			{
+				"description": "Helped queen of Bidnur to fight against Timayya. This helped Shivaji extend boundry of swarjya till Bidnur"
+			},
+			{
+				"description": "Khavaskhan - Bahadurkhan meet at banks of Bhima river",
+				"date": "19th Oct"
+			},
+			{
+				"description": "Captured Satara fort",
+				"date": "11th Nov"
+			},
+			{
+				"description": "Bahlolkhan arrested Khavaskhan. Kept him in Bankapur",
+				"date": "19th Nov"
+			},
+			{
+				"description": "Shivaji ill"
+			}
+		]
+	},
+	{
+		"year": 1676,
+		"events": [
+			{
+				"description": "Bahlolkhan killed Khavaskhan. (Start of Yadavi battle)",
+				"date": "18th jan"
+			},
+			{
+				"description": "Shivaji recoved from illness",
+				"date": "Feb"
+			},
+			{
+				"description": "Bahadurkhan got defeated by Vijapur army",
+				"date": "21st Mar"
+			},
+			{
+				"description": "Bahadurkhan got defeated again by Vijapur army",
+				"date": "13th June"
+			},
+			{
+				"description": "Netaji palkar (Kulikhan), Dilirkhan came to south",
+				"date": "June"
+			},
+			{
+				"description": "Shivaji helped Kulikhan to change his religion to hindu",
+				"date": "19th June"
+			}
+		]
+	},
+	{
+		"year": 1677,
+		"events": [
+			{
+				"description": "Hambir Rao defeated Abdul Rahimkhan Miyan",
+				"date": "Jan"
+			},
+			{
+				"description": "Husenkhan surrendered Koppal fort",
+				"date": "Jan-Mar"
+			},
+			{
+				"description": "Constructed Sajra and Gojra forts",
+				"date": "may"
+			},
+			{
+				"description": "Captured Jinji fort",
+				"date": "May"
+			},
+			{
+				"description": "Shivaji-Kutubshah meet and agreement",
+				"date": "Feb-June"
+			},
+			{
+				"description": "Defeated Sherkhan Lodi",
+				"date": "26th June"
+			},
+			{
+				"description": "Captured Sherkhan's lands like Tegnapattan, Bhuvangirpattan, Vhaldor"
+			},
+			{
+				"description": "Sherkhan surrendered",
+				"date": "5th Jul"
+			},
+			{
+				"description": "Captured Ekoji's entire land in norht of Kaveri like Kolar, Hoskot, Banglore, Balapur, Shire etc."
+			},
+			{
+				"description": "Sambhaji and Yesubai in Shrungarpur",
+				"date": "21st Oct"
+			},
+			{
+				"description": "Captured Bankapur, Lakshmeshwar, Koppal, Gadag"
+			},
+			{
+				"description": "Captured Belwadi (Gadi)",
+				"date": "Dec"
+			},
+			{
+				"description": "Death of Bahlolkhan because of illness",
+				"date": "23rd Dec"
+			}
+		]
+	},
+	{
+		"year": 1678,
+		"events": [
+			{
+				"description": "Letter of Shivaji to Ekoji to surrender",
+				"date": "1st Mar"
+			},
+			{
+				"description": "Shivaji in Panhala",
+				"date": "April"
+			},
+			{
+				"description": "Looted territory between Paithan and Aurangabad"
+			},
+			{
+				"description": "Failed attempt to capture Shivneri fort from Moghals"
+			},
+			{
+				"description": "Captured Vellore fort",
+				"date": "22nd July"
+			},
+			{
+				"description": "Shejada Muajjam appointed in south",
+				"date": "18th Sept"
+			},
+			{
+				"description": "Sambhaji left Sajjangad to join Dilirkhan",
+				"date": "13th Dec"
+			}
+		]
+	},
+	{
+		"year": 1679,
+		"events": [
+			{
+				"description": "Dilirkhan and Sambhaji captured Bhupalgad for Moghal",
+				"date": "2nd Apr"
+			},
+			{
+				"description": "Aurangjeb ordered to collect Jizhiya tax from hindu's",
+				"date": "3rd Apr"
+			},
+			{
+				"description": "Shivaji wrote prohibition letter to Auranjeb"
+			},
+			{
+				"description": "Sambhaji and Dilirkhan attacked Vijapur",
+				"date": "18th Aug"
+			},
+			{
+				"description": "Dilirkhan lifted siege of Vijapur",
+				"date": "14th Nov"
+			},
+			{
+				"description": "Shivaji's army looted Jalnapur",
+				"date": "15th Nov"
+			},
+			{
+				"description": "Shivaji-Adilshah truce. Adilshah revoked right from Shivaji's territory in south"
+			},
+			{
+				"description": "Shivaji on Patta fort (Vishramgad)",
+				"date": "22nd nov"
+			},
+			{
+				"description": "Sambhaji ran from Vijapur with army of Shivaji",
+				"date": "30th Nov"
+			},
+			{
+				"description": "Sambhaji reached Panhala",
+				"date": "4th Dec"
+			},
+			{
+				"description": "Shivaji stayed with Swami Samarth on Sajjangad",
+				"date": "31st Dec - 4th Feb 1680"
+			}
+		]
+	},
+	{
+		"year": 1680,
+		"events": [
+			{
+				"description": "Rajaram wedding with daughter of Prataprao",
+				"date": "15th Mar"
+			},
+			{
+				"description": "Death of Shivaji maharaj on Raigad",
+				"date": "4th Apr",
+				"info": "No. of forts in swarajya at time of Maharaj's death = 145 (as per Aavalskar)",
+				"type": "IMP"
+			}
+		]
 	}
 
 ];
