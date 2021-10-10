@@ -52,7 +52,6 @@ function adjust_widths() {
 	        total_width += parseInt(style.width.replace('px',''), 10) + 25;
 	        console.log(total_width);
 	        document.getElementById(time_div_id).style.width = style.width;
-	        document.getElementById("timeline").style.width = total_width + "px";
 
 		}
 	}, 100);
